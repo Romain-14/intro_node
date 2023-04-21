@@ -1,0 +1,19 @@
+{
+  "name": "intro",
+  "version": "0.1.0",
+  "description": "introduction to node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "intro",
+    "node"
+  ],
+  "author": "ro'14",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
